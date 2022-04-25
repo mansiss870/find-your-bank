@@ -1,5 +1,6 @@
 {
   "name": "find-your-bank",
+  "homepage": "https://mansiss870.github.io/find-your-bank",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

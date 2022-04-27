@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-your-bank/static/css/main.d5fa683c.css",
+    "main.js": "/find-your-bank/static/js/main.75b56693.js",
+    "static/js/787.679ed6e2.chunk.js": "/find-your-bank/static/js/787.679ed6e2.chunk.js",
+    "index.html": "/find-your-bank/index.html",
+    "main.d5fa683c.css.map": "/find-your-bank/static/css/main.d5fa683c.css.map",
+    "main.75b56693.js.map": "/find-your-bank/static/js/main.75b56693.js.map",
+    "787.679ed6e2.chunk.js.map": "/find-your-bank/static/js/787.679ed6e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5fa683c.css",
+    "static/js/main.75b56693.js"
+  ]
+}
